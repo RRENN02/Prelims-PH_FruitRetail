@@ -10,3 +10,6 @@ Goal:
 1. Find the specialty of each province.
 2. Forecast fruit prices.
 3. Find out the effect of seasons on fruit prices.
+
+dataset from:\
+https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__2018/0042M4ARA07.px/?rxid=7d5d3588-67ae-4206-8670-09322cda2f17
